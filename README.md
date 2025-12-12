@@ -1,0 +1,2 @@
+# EGPT
+E GPT is a selfmade chatbot. It runs locally, chats interactively in the terminal, maintains conversation context, and generates responses independently. Lightweight and easy to run, it works without external services or registration.
